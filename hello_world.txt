@@ -1,2 +1,3 @@
 git commit 
-from staging area
+from staging area 
+test the commit message feature
