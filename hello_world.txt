@@ -1,3 +1,0 @@
-git commit 
-from staging area 
-test the commit message feature
